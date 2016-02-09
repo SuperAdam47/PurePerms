@@ -39,13 +39,13 @@ cmds:
     messages:
       all_registered_groups: "Var olan gruplar: %var0%"
   grpinfo:
-    desc: "Shows info about a group."
+    desc: "Grup hakkında bilgi gösterir."
     usage: "Usage: /grpinfo <grup> [dünya]"
     messages:
       group_not_exist: "%var0% adında bir grup yok."
       grpinfo_header: "-- Group Information for %var0% --" 
       grpinfo_alias: "ALIAS: %var0%"
-      grpinfo_default: "DEFAULT: %var0%" 
+      grpinfo_default: "Varsayılan: %var0%" 
       grpinfo_parents: "PARENTS: %var0%"	  
       level_not_exist: "%var0% adında bir dünya bulunmamakta."  
   listgperms: 
